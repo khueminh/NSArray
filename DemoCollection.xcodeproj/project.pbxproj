@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		13253CAB1B56DB940013F688 /* Number2Word.m in Sources */ = {isa = PBXBuildFile; fileRef = 13253CAA1B56DB940013F688 /* Number2Word.m */; };
 		139126361B56B51D007575A5 /* Football.m in Sources */ = {isa = PBXBuildFile; fileRef = 139126351B56B51D007575A5 /* Football.m */; };
 		1391263C1B56B6AB007575A5 /* QueryFootball.m in Sources */ = {isa = PBXBuildFile; fileRef = 1391263B1B56B6AB007575A5 /* QueryFootball.m */; };
 		1391263F1B56C3CB007575A5 /* NSArrayCategory.m in Sources */ = {isa = PBXBuildFile; fileRef = 1391263E1B56C3CB007575A5 /* NSArrayCategory.m */; };
@@ -40,6 +41,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		13253CA91B56DB940013F688 /* Number2Word.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Number2Word.h; sourceTree = "<group>"; };
+		13253CAA1B56DB940013F688 /* Number2Word.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Number2Word.m; sourceTree = "<group>"; };
 		139126341B56B51D007575A5 /* Football.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Football.h; sourceTree = "<group>"; };
 		139126351B56B51D007575A5 /* Football.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Football.m; sourceTree = "<group>"; };
 		1391263A1B56B6AB007575A5 /* QueryFootball.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = QueryFootball.h; sourceTree = "<group>"; };
@@ -192,6 +195,8 @@
 				1391263E1B56C3CB007575A5 /* NSArrayCategory.m */,
 				139126401B56C468007575A5 /* QueryArrayCategory.h */,
 				139126411B56C468007575A5 /* QueryArrayCategory.m */,
+				13253CA91B56DB940013F688 /* Number2Word.h */,
+				13253CAA1B56DB940013F688 /* Number2Word.m */,
 			);
 			name = Array;
 			sourceTree = "<group>";
@@ -322,6 +327,7 @@
 				1391263C1B56B6AB007575A5 /* QueryFootball.m in Sources */,
 				1391263F1B56C3CB007575A5 /* NSArrayCategory.m in Sources */,
 				5E1A0A811B53659900E28BCF /* ConsoleScreen.m in Sources */,
+				13253CAB1B56DB940013F688 /* Number2Word.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

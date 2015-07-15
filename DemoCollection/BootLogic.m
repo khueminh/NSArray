@@ -21,7 +21,8 @@
                                     @{TITLE: @"Send Message", CLASS: @"SendMessage"},
                                     @{TITLE: @"Mutable Array", CLASS: @"MutableArray"},
                                     @{TITLE: @"Football", CLASS: @"QueryFootball"},
-                                    @{TITLE: @"FootballCategory", CLASS: @"QueryArrayCategory"},
+                                    @{TITLE: @"NSArrayCategory", CLASS: @"QueryArrayCategory"},
+                                    @{TITLE: @"NumberToWords", CLASS: @"Number2Word"},
 
                           ]};
     NSDictionary* intermediate = @{SECTION: @"NSDictionary", MENU: @[
